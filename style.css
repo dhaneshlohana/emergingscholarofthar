@@ -1,0 +1,26 @@
+.navbar
+{
+    background-color: black !important;
+}
+.nav-link{
+    color: blanchedalmond !important;
+    font-weight: bold;
+}
+h1{
+    color: blanchedalmond;
+    display: inline;
+    padding-left: 10px;
+}
+.fa-user-circle-o,.fa-phone-square,.fa-envelope,.fa-info-circle,.fa-book{
+    font-size: 32px !important;
+}
+.logo{
+    margin-bottom: 10px;
+    margin-left: 8px;
+}
+i,.footer-copyright,.clr,.col-form-label,.form-check-label{
+    color: white;
+}
+.leb,.para{
+    color:blanchedalmond !important;
+}
